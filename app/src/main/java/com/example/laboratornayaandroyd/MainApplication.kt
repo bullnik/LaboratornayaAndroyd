@@ -1,9 +1,9 @@
 package com.example.laboratornayaandroyd
 
 import android.app.Application
-import android.content.Context
 import com.example.laboratornayaandroyd.dagger.AppComponent
 import com.example.laboratornayaandroyd.dagger.DaggerAppComponent
+import com.example.laboratornayaandroyd.models.Database
 
 class MainApplication : Application() {
 
@@ -12,6 +12,7 @@ class MainApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
+        Database.context = applicationContext
         appComponent = DaggerAppComponent.create()
     }
 }

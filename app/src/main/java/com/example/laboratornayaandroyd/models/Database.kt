@@ -1,5 +1,7 @@
 package com.example.laboratornayaandroyd.models
 
+import android.app.Application
+import android.content.Context
 import androidx.room.AutoMigration
 import androidx.room.Database
 import androidx.room.RoomDatabase
@@ -26,6 +28,9 @@ abstract class Database: RoomDatabase() {
     abstract fun getJijaDao(): JijaDao
 
     companion object {
+        @JvmStatic
+        lateinit var context: Context
+
         const val DATABASE_NAME = "jija_database"
     }
 }
