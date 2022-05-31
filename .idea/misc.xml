@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/background_tariff.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/background_user_info.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/circle_background.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/divider.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/ic_baseline_cast_24.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/ic_baseline_currency_ruble_24.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/ic_baseline_monetization_on_24.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/ic_baseline_widgets_24.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/drawable/ic_round_home_24.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout-v28/fragment_user_balance.xml" value="0.3359375" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/category_title.xml" value="0.33489583333333334" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_category_title.xml" value="0.3359375" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_main.xml" value="0.33489583333333334" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_main_title.xml" value="0.25" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_personal_account.xml" value="0.33" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_tariff.xml" value="0.33489583333333334" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_user_balance.xml" value="0.5" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_user_balance22.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_user_info.xml" value="0.20380434782608695" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/fragment_user_tariffs.xml" value="0.20380434782608695" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/item_balance.xml" value="0.33" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/item_tariff.xml" value="0.25" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/item_user.xml" value="0.22" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/main_title.xml" value="0.33489583333333334" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/rv_tarif.xml" value="0.33" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/tariff_item.xml" value="0.16271442986881937" />
+        <entry key="..\:/Documents/AndroidStudioProjects/LaboratornayaAndroyd/app/src/main/res/layout/user_balance_fragment.xml" value="0.20380434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

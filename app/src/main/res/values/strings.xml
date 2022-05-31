@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LaboratornayaAndroyd</string>
+    <string name="personal_account_title_text">Личный кабинет</string>
+    <string name="tariff_title_text">Тариф</string>
+    <string name="user_title_text">Пользователь</string>
+    <string name="balance_title_text">Ваш баланс</string>
+    <string name="deposit_button_text">ПОПОЛНИТЬ</string>
+    <string name="additional_services_text">Доп. услуги</string>
+    <string name="per_month_text">/мес</string>
+    <string name="loading_text">Загрузка..</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
