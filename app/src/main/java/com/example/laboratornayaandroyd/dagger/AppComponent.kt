@@ -10,6 +10,6 @@ interface AppComponent {
 
     val mockApiService: MockApiService
 
-    fun database(context: Context): Database
+   // fun database(context: Context): Database
 
 }

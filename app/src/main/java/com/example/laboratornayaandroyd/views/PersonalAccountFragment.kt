@@ -9,6 +9,7 @@ import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.laboratornayaandroyd.databinding.FragmentPersonalAccountBinding
 import com.example.laboratornayaandroyd.viewmodels.PersonalAccountViewModel
+import kotlinx.android.synthetic.main.fragment_personal_account.*
 
 class PersonalAccountFragment : Fragment() {
 
@@ -35,9 +36,12 @@ class PersonalAccountFragment : Fragment() {
             tariffAdapter.tariffs = it
         }
         viewModel.balance.observe(viewLifecycleOwner) {
-            binding.balance.text = it.balance.toString()
-            binding.personalAccountId.text = it.accNum.toString()
-            binding.nextPay.text = it.nextPay.toString()
+            val balance = "${it.balance} ₽"
+            binding.balance.text = balance
+            val ls = "ЛС ${it.accNum}"
+            binding.personalAccountId.text = ls
+            val toPay = "К оплате: ${it.nextPay} ₽"
+            binding.nextPay.text = toPay
         }
         viewModel.user.observe(viewLifecycleOwner) {
             val name: String = it.firstName + " " + it.lastName
